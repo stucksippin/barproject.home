@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\kt\kt\obj\Debug\net6.0\kt.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\kt\kt\obj\Debug\net6.0\kt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\kt\kt\obj\Debug\net6.0\kt.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\kt\kt\obj\Debug\net6.0\kt.AssemblyInfo.cs
+C:\Users\Admin\source\repos\kt\kt\obj\Debug\net6.0\kt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\kt\kt\bin\Debug\net6.0\kt.exe
+C:\Users\Admin\source\repos\kt\kt\bin\Debug\net6.0\kt.deps.json
+C:\Users\Admin\source\repos\kt\kt\bin\Debug\net6.0\kt.runtimeconfig.json
+C:\Users\Admin\source\repos\kt\kt\bin\Debug\net6.0\kt.dll
+C:\Users\Admin\source\repos\kt\kt\bin\Debug\net6.0\ref\kt.dll
+C:\Users\Admin\source\repos\kt\kt\bin\Debug\net6.0\kt.pdb
+C:\Users\Admin\source\repos\kt\kt\obj\Debug\net6.0\kt.dll
+C:\Users\Admin\source\repos\kt\kt\obj\Debug\net6.0\ref\kt.dll
+C:\Users\Admin\source\repos\kt\kt\obj\Debug\net6.0\kt.pdb
+C:\Users\Admin\source\repos\kt\kt\obj\Debug\net6.0\kt.genruntimeconfig.cache
