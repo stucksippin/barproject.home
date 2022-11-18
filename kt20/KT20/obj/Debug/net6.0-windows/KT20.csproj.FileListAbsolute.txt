@@ -1,0 +1,34 @@
+D:\Visual Studio sh#t\KT20\KT20\bin\Debug\net6.0-windows\KT20.exe
+D:\Visual Studio sh#t\KT20\KT20\bin\Debug\net6.0-windows\KT20.deps.json
+D:\Visual Studio sh#t\KT20\KT20\bin\Debug\net6.0-windows\KT20.runtimeconfig.json
+D:\Visual Studio sh#t\KT20\KT20\bin\Debug\net6.0-windows\KT20.dll
+D:\Visual Studio sh#t\KT20\KT20\bin\Debug\net6.0-windows\KT20.pdb
+D:\Visual Studio sh#t\KT20\KT20\obj\Debug\net6.0-windows\KT20.csproj.AssemblyReference.cache
+D:\Visual Studio sh#t\KT20\KT20\obj\Debug\net6.0-windows\KT20.Form1.resources
+D:\Visual Studio sh#t\KT20\KT20\obj\Debug\net6.0-windows\KT20.csproj.GenerateResource.cache
+D:\Visual Studio sh#t\KT20\KT20\obj\Debug\net6.0-windows\KT20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio sh#t\KT20\KT20\obj\Debug\net6.0-windows\KT20.AssemblyInfoInputs.cache
+D:\Visual Studio sh#t\KT20\KT20\obj\Debug\net6.0-windows\KT20.AssemblyInfo.cs
+D:\Visual Studio sh#t\KT20\KT20\obj\Debug\net6.0-windows\KT20.csproj.CoreCompileInputs.cache
+D:\Visual Studio sh#t\KT20\KT20\obj\Debug\net6.0-windows\KT20.dll
+D:\Visual Studio sh#t\KT20\KT20\obj\Debug\net6.0-windows\refint\KT20.dll
+D:\Visual Studio sh#t\KT20\KT20\obj\Debug\net6.0-windows\KT20.pdb
+D:\Visual Studio sh#t\KT20\KT20\obj\Debug\net6.0-windows\KT20.genruntimeconfig.cache
+D:\Visual Studio sh#t\KT20\KT20\obj\Debug\net6.0-windows\ref\KT20.dll
+C:\Users\Admin\Desktop\KT20\KT20\bin\Debug\net6.0-windows\KT20.exe
+C:\Users\Admin\Desktop\KT20\KT20\bin\Debug\net6.0-windows\KT20.deps.json
+C:\Users\Admin\Desktop\KT20\KT20\bin\Debug\net6.0-windows\KT20.runtimeconfig.json
+C:\Users\Admin\Desktop\KT20\KT20\bin\Debug\net6.0-windows\KT20.dll
+C:\Users\Admin\Desktop\KT20\KT20\bin\Debug\net6.0-windows\ref\KT20.dll
+C:\Users\Admin\Desktop\KT20\KT20\bin\Debug\net6.0-windows\KT20.pdb
+C:\Users\Admin\Desktop\KT20\KT20\obj\Debug\net6.0-windows\KT20.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\KT20\KT20\obj\Debug\net6.0-windows\KT20.Form1.resources
+C:\Users\Admin\Desktop\KT20\KT20\obj\Debug\net6.0-windows\KT20.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\KT20\KT20\obj\Debug\net6.0-windows\KT20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\KT20\KT20\obj\Debug\net6.0-windows\KT20.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\KT20\KT20\obj\Debug\net6.0-windows\KT20.AssemblyInfo.cs
+C:\Users\Admin\Desktop\KT20\KT20\obj\Debug\net6.0-windows\KT20.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KT20\KT20\obj\Debug\net6.0-windows\KT20.dll
+C:\Users\Admin\Desktop\KT20\KT20\obj\Debug\net6.0-windows\ref\KT20.dll
+C:\Users\Admin\Desktop\KT20\KT20\obj\Debug\net6.0-windows\KT20.pdb
+C:\Users\Admin\Desktop\KT20\KT20\obj\Debug\net6.0-windows\KT20.genruntimeconfig.cache
